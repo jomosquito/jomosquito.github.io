@@ -27,7 +27,7 @@ author:
   bio              : "UH B.S - Computer Science - Cybersecurity Specialization"
   location         : "Houston, TX"
   employer         : "University of Houston"
-  uri              : https://www.uh.edu/nsm/computer-science/ # URL
+  uri              : # URL
   email            : "mascardojoseph@gmail.com" 
 
   # Academic websites
