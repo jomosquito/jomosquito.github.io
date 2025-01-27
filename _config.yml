@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "UH B.S - Computer Science - Cybersecurity Specialization"
   location         : "Houston, TX"
-  employer         : "University of Houston" https://www.uh.edu/nsm/computer-science/
+  employer         : "University of Houston" "https://www.uh.edu/nsm/computer-science/"
   uri              : https://www.uh.edu/nsm/computer-science/ # URL
   email            : "mascardojoseph@gmail.com" 
 
