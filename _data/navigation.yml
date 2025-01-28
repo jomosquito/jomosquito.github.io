@@ -21,7 +21,8 @@ main:
     #url: /year-archive/
     
   - title: "Resume"
-    url: /cv/
+    #url: /cv/
+    url: /files/2024 Resume Joseph Mascardo.pdf
     
   #- title: "Guide"
     #url: /markdown/
