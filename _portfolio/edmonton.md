@@ -1,5 +1,5 @@
 ---
-title: "Your Project Name"
+title: "Edmonton"
 excerpt: "Edmonton is a university forms management system that allows students to submit various administrative requests and enables staff to process them through defined approval workflows. The system handles several types of forms:
 
 Medical/Administrative Term Withdrawal requests
