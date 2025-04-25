@@ -44,7 +44,7 @@ The code for this project is available on GitHub: [Project Repository](https://g
 
 ### Team Members
 
-* [Joseph Mascardo]
-* [John Gleiter]
-* [Niket Gupta]
-* [Alexis Alejandro]
+* Joseph Mascardo
+* John Gleiter
+* Niket Gupta
+* Alexis Alejandro
